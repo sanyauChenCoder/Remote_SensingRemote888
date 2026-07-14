@@ -10,9 +10,9 @@ After downloading, extract the dataset and place it in the `datasets/` folder of
 
 ---
 
-## 🧠Tomato_leaf_examination Training Guide
+## 🧠Remote_SensingRemote888 Training Guide
 
-This project uses the **Tomato_leaf_examination** model for training on a custom dataset. Follow these steps to set up and train the model:
+This project uses the **Remote_SensingRemote888** model for training on a custom dataset. Follow these steps to set up and train the model:
 
 ### 1. Environment Setup
 
