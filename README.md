@@ -2,13 +2,10 @@
 ## 📦 Dataset
 
 The training dataset is too large to be uploaded directly to GitHub. It has been uploaded to Baidu Netdisk instead:
-
-Download link:：https://pan.baidu.com/s/1UGCXmPZjvcxPfzXmBFcpiw
-Extraction code:：b4u9
-
+The file shared via cloud storage: VEDAI
+Link: https://pan.baidu.com/s/1KGiKzpBfvh3XMZxoyNYq-A
+Extraction code: gvrs
 After downloading, extract the dataset and place it in the `datasets/` folder of this project.
-
----
 
 ## 🧠Remote_SensingRemote888 Training Guide
 
